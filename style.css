@@ -21,6 +21,7 @@ h1,p,h2{
     padding: 5px;
     font-weight: 900;
     font-size: 15px;
+    cursor: pointer;
 }
 
 a{
@@ -159,6 +160,7 @@ ul{
     font-weight: 900;
     border-radius: 20px;
     padding: 10px;
+    cursor: pointer;
 }
 
 .footer{
