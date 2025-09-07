@@ -93,8 +93,11 @@ ul{
     justify-content: center;
     padding-bottom: 30px;
 }
+
+
 .img-about{
     justify-content: center;
+    align-items: baseline;
     display: flex;
     gap: 20px;
     padding-bottom: 30px;
